@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
