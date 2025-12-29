@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
