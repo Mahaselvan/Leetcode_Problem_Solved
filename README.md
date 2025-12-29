@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1822-sign-of-the-product-of-an-array) |
