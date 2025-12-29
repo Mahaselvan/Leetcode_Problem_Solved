@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
