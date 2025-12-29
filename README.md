@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
