@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
