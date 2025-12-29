@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1550-three-consecutive-odds) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Tree
 |  |
 | ------- |
