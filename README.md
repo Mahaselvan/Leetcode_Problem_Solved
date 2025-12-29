@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
