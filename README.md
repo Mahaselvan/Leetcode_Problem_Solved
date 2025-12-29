@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
