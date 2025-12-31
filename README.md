@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
