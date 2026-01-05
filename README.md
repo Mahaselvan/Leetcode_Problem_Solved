@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
