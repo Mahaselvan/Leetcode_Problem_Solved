@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
