@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Tree
