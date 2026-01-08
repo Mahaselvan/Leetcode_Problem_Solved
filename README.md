@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0058-length-of-last-word) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
