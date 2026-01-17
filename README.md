@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
