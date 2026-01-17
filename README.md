@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1323-maximum-69-number) |
 | [1975-maximum-matrix-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1975-maximum-matrix-sum) |
 ## Counting Sort
 |  |
