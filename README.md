@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
+| [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
 ## Heap (Priority Queue)
 |  |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
