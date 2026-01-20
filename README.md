@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Queue
 |  |
 | ------- |
