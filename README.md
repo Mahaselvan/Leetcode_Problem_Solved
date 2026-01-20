@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
