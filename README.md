@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
 | [1185-day-of-the-week](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Brainteaser
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
