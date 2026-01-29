@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2942-find-words-containing-character) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3019-number-of-changing-keys](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3019-number-of-changing-keys) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -356,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
