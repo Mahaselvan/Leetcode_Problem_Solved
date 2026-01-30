@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2942-find-words-containing-character) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3019-number-of-changing-keys](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3019-number-of-changing-keys) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Brainteaser
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -362,8 +366,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
