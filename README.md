@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1929-concatenation-of-array) |
