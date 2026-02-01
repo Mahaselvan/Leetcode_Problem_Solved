@@ -387,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
