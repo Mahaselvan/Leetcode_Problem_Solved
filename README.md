@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3637-trionic-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## String
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Brainteaser
 |  |
