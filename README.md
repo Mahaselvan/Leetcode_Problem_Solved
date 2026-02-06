@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3634-minimum-removals-to-balance-array) |
 | [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0219-contains-duplicate-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3634-minimum-removals-to-balance-array) |
 ## Design
 |  |
 | ------- |
