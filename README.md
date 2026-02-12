@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3019-number-of-changing-keys](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3019-number-of-changing-keys) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
 | ------- |
