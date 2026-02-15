@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0202-happy-number) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0287-find-the-duplicate-number) |
