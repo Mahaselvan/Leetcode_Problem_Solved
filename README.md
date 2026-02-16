@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0645-set-mismatch) |
