@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
@@ -480,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
