@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0761-special-binary-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2733-neither-minimum-nor-maximum) |
