@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3713-longest-balanced-substring-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Memoization
 |  |
 | ------- |
@@ -500,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0401-binary-watch) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
