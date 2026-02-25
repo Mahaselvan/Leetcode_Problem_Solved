@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1550-three-consecutive-odds) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0761-special-binary-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
