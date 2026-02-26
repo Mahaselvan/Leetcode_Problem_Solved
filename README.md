@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
