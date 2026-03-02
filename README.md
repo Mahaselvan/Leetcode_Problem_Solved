@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1550-three-consecutive-odds](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1975-maximum-matrix-sum) |
 ## Counting Sort
