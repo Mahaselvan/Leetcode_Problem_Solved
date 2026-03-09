@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Brainteaser
