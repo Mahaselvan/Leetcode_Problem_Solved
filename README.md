@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1622-fancy-sequence](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
+| [1622-fancy-sequence](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1622-fancy-sequence) |
 ## Hash Function
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
