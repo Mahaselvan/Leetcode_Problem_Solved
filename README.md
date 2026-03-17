@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/2974-minimum-number-game) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1672-richest-customer-wealth) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1975-maximum-matrix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
