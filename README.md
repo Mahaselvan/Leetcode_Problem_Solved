@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3024-type-of-triangle](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3024-type-of-triangle) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1975-maximum-matrix-sum) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
