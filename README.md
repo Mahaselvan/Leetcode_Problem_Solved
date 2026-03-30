@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0645-set-mismatch) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1588-sum-of-all-odd-length-subarrays) |
