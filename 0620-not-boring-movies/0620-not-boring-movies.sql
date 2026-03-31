@@ -1,4 +1,1 @@
-SELECT id,movie,description,rating 
-FROM Cinema 
-where id%2!=0 AND description!='boring'
-ORDER BY rating DESC;
+select id ,movie,description,rating from Cinema having id %2 <>0 && description <> "boring" order by rating desc;
