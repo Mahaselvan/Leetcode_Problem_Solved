@@ -1,21 +1,17 @@
-import java.util.Scanner;
 class Solution {
-    public void rotate(int[] arr, int r) {
-        int n= arr.length;
-        r=r%n;
-        reverse(n-r,n-1,arr);
-        reverse(0,n-r-1,arr);
-        reverse(0,n-1,arr);
+    public void rotate(int[] nums, int k) {
+        int size=nums.length;
+        k=k%size;
+        int temp[] = new int[k];
+        int j=0;
+        for(int i=size-k;i<size;i++){
+            temp[j++]=nums[i];
+        }
+        for(int i=size-k-1;i>=0;i--){
+              nums[i+k]=nums[i];
+        }
+        for(int i=0;i<k;i++){
+            nums[i]=temp[i];
+        }
     }
-    public void reverse(int st,int end,int arr[]){
-         while(st<end){
-            int temp=arr[st];
-            arr[st]=arr[end];
-            arr[end]=temp;
-            st++;
-            end--;
-         }
-         }
-
-      
-    }
+}
