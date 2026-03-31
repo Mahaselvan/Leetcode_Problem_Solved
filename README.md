@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0682-baseball-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0155-min-stack) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0535-encode-and-decode-tinyurl) |
 | [1622-fancy-sequence](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1622-fancy-sequence) |
 ## Hash Function
