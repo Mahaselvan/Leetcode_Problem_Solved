@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0611-valid-triangle-number) |
