@@ -1,9 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-      int result=0;
-      for (int i=0;i<nums.length;i++){
-        result^=nums[i];
-      }
-      return result;
+        int n=nums.length;
+        int single=nums[0];
+        for(int i=1;i<n;i++){
+            single=single^nums[i];
+        }
+        return single;
     }
 }
