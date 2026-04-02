@@ -1,8 +1,6 @@
-SELECT 
-    query_name,
-    ROUND(SUM(rating / position) / COUNT(*), 2) AS quality,
-    ROUND(SUM(CASE WHEN rating < 3 THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2)
-    AS poor_query_percentage
-FROM Queries
-GROUP BY query_name
-ORDER BY quality DESC, poor_query_percentage ASC;
+select q.query_name,
+Round(sum(q.rating/q.position)/ count(*),2) as quality,
+round(sum(case when q.rating<3 then 1 else 0 end)*100/count(*),2) as poor_query_percentage
+
+from Queries q
+group by q.query_name;
