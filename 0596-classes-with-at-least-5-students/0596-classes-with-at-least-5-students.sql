@@ -1,5 +1,5 @@
-select class
+select 
+class
 from Courses
 group by class
-HAVING COUNT(class)>=5;
-
+having count(*)>=5;
