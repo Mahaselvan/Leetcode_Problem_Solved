@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/Mahaselvan/Leetcode_Problem_Solved/tree/master/1025-divisor-game) |
