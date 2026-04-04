@@ -1,13 +1,8 @@
-SELECT 
-    ROUND(
-        SUM(CASE WHEN a2.player_id IS NOT NULL THEN 1 ELSE 0 END) / COUNT(*)
-    , 2) AS fraction
-FROM (
-    SELECT player_id, MIN(event_date) AS first_date
-    FROM Activity
-    GROUP BY player_id
-) a1
-LEFT JOIN Activity a2
-    ON a1.player_id = a2.player_id
-   AND a2.event_date = DATE_ADD(a1.first_date, INTERVAL 1 DAY);
-
+select 
+ROUND(SUM(case when a2.player_id is not null then 1 else 0 end)/count(*),2) as fraction
+from (
+select player_id , min(event_date)as first_date 
+ from Activity
+group by player_id)a1
+left join activity a2 on a1.player_id=a2.player_id
+and a2.event_date=DATE_ADD(a1.first_date,Interval 1 day);
